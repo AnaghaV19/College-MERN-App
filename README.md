@@ -10,7 +10,11 @@ npm install
 npm audit fix --force
 
 Running -
+
 In three terminals/cmds run the following things -
+
 mongod
+
 mongo
+
 npm start
